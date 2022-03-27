@@ -47,7 +47,7 @@ img{
 .header nav ul{
   display: flex;
   flex-wrap: wrap;
-  gap: 0px 20px;
+  gap: 0px 30px;
 }
 
 .header nav a{
@@ -64,8 +64,29 @@ img{
   background: rgba(0,0,0,.5)
 }
 
+
+/* SIDENAV */
+
 .sidenav{
   grid-area: sidenav;
+  background: #fafbfc;
+  padding: 30px;
+}
+
+.sidenav li a{
+  display: block;
+  min-width: 60px;
+  max-width: 100px;
+  margin: 0 auto 30px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 0px rgba(44,44,44,.15);
+  transition: .1s ease-out;
+}
+
+.sidenav li a:hover{
+  background: #b07dfb;
 }
 
 .content{
