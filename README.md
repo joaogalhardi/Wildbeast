@@ -5,7 +5,9 @@
 </div>
 
 <div align="center">
+  
 ## Project developed at Origamid Course with the goal of builded a website just with Grid Layout.
+
 </div>
 
 <div align="center">
