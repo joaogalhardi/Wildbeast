@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-
-## Project developed at Origamid Course.
-
+## Project developed at Origamid Course with the goal of builded a website just with Grid Layout.
 </div>
 
 <div align="center">
@@ -19,11 +17,10 @@
 ## Deploy:
 Click [here](https://joaogalhardi.github.io/Wildbeast/) for try the aplication.
 
-## technologies:
+## Technologies:
 
 - 💹**HTML**  
 - 💹 **CSS** 
-- 💹 **JAVASCRIPT**
 
 
 ## License:
