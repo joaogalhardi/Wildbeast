@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="" alt="wildbeast">
+  <img src="./video/wildbeast.gif" alt="wildbeast">
 </div>
 
 <hr />
