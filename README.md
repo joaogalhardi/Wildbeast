@@ -6,7 +6,7 @@
 
 <div align="center">
   
-## Project developed at Origamid Course with the goal of builded a website just with Grid Layout.
+## Project developed in the Origamid Course with the objective of building a website using only Grid Layout.
 
 </div>
 
